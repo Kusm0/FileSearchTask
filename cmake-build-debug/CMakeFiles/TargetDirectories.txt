@@ -1,0 +1,3 @@
+C:/Users/jeffe/CLionProjects/techtask/cmake-build-debug/CMakeFiles/techtask.dir
+C:/Users/jeffe/CLionProjects/techtask/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jeffe/CLionProjects/techtask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
